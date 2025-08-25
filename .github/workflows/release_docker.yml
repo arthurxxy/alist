@@ -1,5 +1,4 @@
 name: release_docker
-
 on:
   push:
     tags:
